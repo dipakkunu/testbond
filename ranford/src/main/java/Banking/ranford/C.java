@@ -13,7 +13,7 @@ public class C
 		for(int i=0;i<=5;i++)//length is the property of array  
 		System.out.println(a[i]);  
 		}
-
+//this is my new addition
 
 
 }
