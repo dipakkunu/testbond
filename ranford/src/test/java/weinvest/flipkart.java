@@ -64,7 +64,8 @@ public class flipkart {
 	
 public void down()
 {
-	driver.close();
+	//driver.close();
+	driver.quit();
 }
 
 }
